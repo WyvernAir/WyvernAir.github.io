@@ -173,7 +173,7 @@
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
 <li>
-<p>By email: Wyattt.j.henderson@gmail.com</p>
+<p>By email: Westernwyvern08@gmail.com</p>
 <p>By phone number: (435)-650-0308</p>
 </li>
 </ul>
